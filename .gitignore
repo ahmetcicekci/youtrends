@@ -3,6 +3,7 @@ env-youtube/
 
 countries/
 unique_video_ids.json
+main.ipynb
 
 *.part
 *.ytdl
