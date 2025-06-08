@@ -5,7 +5,6 @@ from yt_dlp import YoutubeDL
 
 # === Config ===
 INPUT_JSON = "../charts-youtube/unique_video_ids.json"
-OUTPUT_DIR = "music-data/audio/"
 S3_BUCKET = "youtrends-project"
 S3_PREFIX = "music-data/audio/"
 
