@@ -8,4 +8,4 @@ Then, the [`get_video_ids.py`](get_video_ids.py) script iterates through all cou
 
 Finally, the [`unique_video_ids.py`](unique_video_ids.py) script reads all collected JSON files and extracts a unique list of video IDs, as many songs appear across multiple weeks and countries.
 
-In total, 12,407 unique video IDs were collected from global and local charts across 15 countries.
+In total, approximately 50,000 unique video IDs were collected from global and local charts across 15 countries.
